@@ -4,7 +4,7 @@
 
 * Student Name: SAMRATH SINGH
 * Student Rollno: 2026202004 
-* GitHub Repository: https://github.com/samrath-1310/nodes-app.git
+* GitHub Repository: https://github.com/samrath-1310/notes-app.git
 
 ## Project Description
 
